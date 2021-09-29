@@ -1,0 +1,6 @@
+[submodule "mysharedmodule1"]
+	path = mysharedmodule1
+	url = https://github.com/stefano-catdf/mysharedmodule1.git
+[submodule "mysharedmodule2"]
+	path = mysharedmodule2
+	url = https://github.com/stefano-catdf/mysharedmodule2.git
